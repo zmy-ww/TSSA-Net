@@ -3,7 +3,7 @@
 This repository provides the official implementation of our paper:
 
 **TSS-Align: Temporal-Semantic-Static Alignment for Functional Brain Network Analysis**  
-[Paper PDF](#) | [Project Page](#) (if applicable)
+
 
 
 ---
@@ -91,4 +91,5 @@ For any questions, feel free to open an issue or contact [your-email@domain.com]
 
 ---
 Feel free to suggest improvements or report issues!
+
 
