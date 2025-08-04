@@ -5,8 +5,6 @@ This repository provides the official implementation of our paper:
 **TSS-Align: Temporal-Semantic-Static Alignment for Functional Brain Network Analysis**  
 [Paper PDF](#) | [Project Page](#) (if applicable)
 
-**Authors:** [Your names]  
-**Affiliation:** [Your institution or lab name]
 
 ---
 
@@ -52,31 +50,6 @@ Key packages:
 
 ---
 
-## 📁 Project Structure
-
-```bash
-TSSA-Net/
-├── data/                 # Dataset files (.mat or .npz) and semantic resources
-├── models/               # Core model components (GAT, Transformers, DEC, etc.)
-├── utils/                # Data loader, metrics, visualization, etc.
-├── scripts/              # Training and evaluation scripts
-├── configs/              # Configuration files
-├── assets/               # Diagrams, model figures
-├── Information_fusion.pdf  # Final version of the paper
-├── main.py               # Entry point
-└── README.md
-```
-
----
-
-## 📊 Dataset
-
-We support **ABIDE**, **ADHD-200**, and custom datasets. For ABIDE:
-1. Download preprocessed fMRI data from [here](#).
-2. Use the **AAL atlas** to extract ROI time series.
-3. Semantic knowledge comes from curated RAG-based descriptions (details in paper Section 3.1).
-
----
 
 ## 🚀 Training & Evaluation
 
@@ -108,17 +81,7 @@ python main.py --mode eval --checkpoint path_to_model.pth
 
 ---
 
-## 📝 Citation
 
-If you find this work helpful, please cite:
-```bibtex
-@article{your2024tssalign,
-  title={TSS-Align: Temporal-Semantic-Static Alignment for Functional Brain Network Analysis},
-  author={Your, Authors},
-  journal={Information Fusion},
-  year={2024}
-}
-```
 
 ---
 
@@ -128,3 +91,4 @@ For any questions, feel free to open an issue or contact [your-email@domain.com]
 
 ---
 Feel free to suggest improvements or report issues!
+
