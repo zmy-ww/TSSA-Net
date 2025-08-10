@@ -1,8 +1,8 @@
-# TSS-Align: Temporal-Semantic-Static Alignment for Functional Brain Network Analysis
+# TSSCAlign: Temporal-Spatial-Semantic Cascaded Alignment Network for Brain Network Decoding
 
 This repository provides the official implementation of our paper:
 
-**TSS-Align: Temporal-Semantic-Static Alignment for Functional Brain Network Analysis**  
+**TSSCAlign: Temporal-Spatial-Semantic Cascaded Alignment Network for Brain Network Decoding**  
 
 
 
@@ -10,7 +10,7 @@ This repository provides the official implementation of our paper:
 
 ## 🧠 Overview
 
-**TSS-Align** is a unified framework that models brain functional networks by aligning static (sFC), dynamic (dFC), and semantic (knowledge-driven) connectivity patterns for neuroimaging-based disease classification. It consists of:
+**TSSCAlign** is a unified framework that models brain functional networks by aligning static (sFC), dynamic (dFC), and semantic (knowledge-driven) connectivity patterns for neuroimaging-based disease classification. It consists of:
 
 ### Key Components:
 1. **Network Construction**  
@@ -91,5 +91,6 @@ For any questions, feel free to open an issue or contact [your-email@domain.com]
 
 ---
 Feel free to suggest improvements or report issues!
+
 
 
